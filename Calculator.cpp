@@ -45,6 +45,7 @@ void calculator :: cal()
 }
 int main()
 {
+   cout<<"Welcome to CodingMirchi";
   char ch;
   calculator c;
   do
